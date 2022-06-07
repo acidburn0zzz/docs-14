@@ -67,7 +67,7 @@ GEM
       sass (~> 3.4)
     jekyll-watch (1.2.1)
       listen (~> 2.7)
-    jmespath (1.1.3)
+    jmespath (1.6.1)
     json (1.8.3)
     kramdown (1.15.0)
     less (2.6.0)
@@ -154,7 +154,7 @@ DEPENDENCIES
   japr (>= 0.3)
   jekyll (= 2.2.0)
   jekyll-watch (= 1.2.1)
-  jmespath (= 1.1.3)
+  jmespath (= 1.6.1)
   less
   nio4r (= 1.1.1)
   nokogiri (= 1.6.6.2)
